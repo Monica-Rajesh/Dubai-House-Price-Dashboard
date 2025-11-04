@@ -1,4 +1,4 @@
-# 🏙️ Dubai Real Estate Analytics Dashboard (Power BI)
+# 🏙️ Dubai House Price Analytics Dashboard (Power BI)
 
 This project presents an interactive **Power BI dashboard** built to analyze Dubai real estate property listings. It helps in understanding **price variations**, **market segmentation**, and **neighborhood-level insights**.
 
