@@ -37,11 +37,6 @@ This project presents an interactive **Power BI dashboard** built to analyze Dub
 
 ---
 
-## 📷 Dashboard Preview
-*(Insert dashboard screenshot here)*
-
----
-
 ## 🚀 How to Use
 1. Download `.pbix` file from the repository.
 2. Open in **Power BI Desktop**.
